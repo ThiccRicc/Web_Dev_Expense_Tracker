@@ -66,7 +66,7 @@ The project uses a structured **Monorepo Architecture** to separate user interfa
 
 ---
 
-## 💻 REST API Endpoint Reference
+##  REST API Endpoint Reference
 
 ### Authentication Services
 * `POST /api/auth/register` - Registers a new user account & hashes passwords with Bcrypt.
